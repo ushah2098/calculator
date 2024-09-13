@@ -1,0 +1,33 @@
+*
+table{
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(https://th.bing.com/th?id=OIP.gv60GUmyd9kZGYHyUdZQ7QHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&cb=13&pid=3.1&rm=2);
+}
+
+input[type="button"] {
+	width: 90%;
+	height: 100px;
+	padding: 20px 40px;
+	background-color: black;
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	border: none;
+	border-radius: 50px;
+}
+
+input[type="text"] {
+	padding: 20px 240px;
+	font-size: 24px;
+	font-weight: bold;
+	border: none;
+	border-radius: 50px;
+	border: 2px solid black;
+	text-align: right;
+}
+
+display {
+	text-align: left;
+}
